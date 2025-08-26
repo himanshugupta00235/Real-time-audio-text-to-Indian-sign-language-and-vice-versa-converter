@@ -94,13 +94,14 @@ This project is a **real-time bi-directional converter** between **Audio/Text** 
 ---
 
 ## 🔹 Screenshots / Demo
-(Add your screenshots or demo GIFs here showing audio-to-ISL and ISL-to-text in action)  
+<img width="4061" height="128" alt="image" src="https://github.com/user-attachments/assets/50ad3914-7f99-4ed6-b960-954a647eb179" />
+ 
 
 ---
 
 ## 🔹 Author
 👤 **Himanshu Gupta**  
-📧 Email: [your_email@example.com]  
+📧 Email: himanshugupta00235@gmail.com  
 🌐 GitHub: [himanshugupta00235](https://github.com/himanshugupta00235)  
 
 ---
